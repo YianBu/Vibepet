@@ -1,0 +1,64 @@
+{
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "hooks": [
+          {
+            "command": "E:\\360MoveData\\Users\\67400\\Desktop\\vibepet\\windows-portable\\agentpet-hook.cmd",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "command": "E:\\360MoveData\\Users\\67400\\Desktop\\vibepet\\windows-portable\\agentpet-hook.cmd",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "command": "E:\\360MoveData\\Users\\67400\\Desktop\\vibepet\\windows-portable\\agentpet-hook.cmd",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "command": "E:\\360MoveData\\Users\\67400\\Desktop\\vibepet\\windows-portable\\agentpet-hook.cmd",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "SubagentStop": [
+      {
+        "hooks": [
+          {
+            "command": "E:\\360MoveData\\Users\\67400\\Desktop\\vibepet\\windows-portable\\agentpet-hook.cmd",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "command": "E:\\360MoveData\\Users\\67400\\Desktop\\vibepet\\windows-portable\\agentpet-hook.cmd",
+            "type": "command"
+          }
+        ]
+      }
+    ]
+  }
+}
